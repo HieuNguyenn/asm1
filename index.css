@@ -1,0 +1,39 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.menu a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    
+}
+.right {
+    float: right;
+    margin-right: 70px;
+    margin-top: -30px;
+}
+.content img {
+    width: 100%;
+}
+
+.content h1 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 50px;
+    color: white;
+}
+
+.content p {
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 50px;
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.footer img{
+    padding-bottom: 20px;
+}
