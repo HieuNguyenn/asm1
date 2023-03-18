@@ -33,16 +33,14 @@
         }
         .banner h1{
             position: absolute; 
-            margin-top: 150px;   
+            margin-top: 300px;   
             margin-left: 50px;
-            color: white;
+            color: black;
         }
         .banner p{
             position: absolute;
-            margin-top: 200px;
-            margin-left: 50px;
-            color: white;
+            margin-top: 350px;
+            margin-left: 60px;
+            color: black;
         }
     }
-
-    
